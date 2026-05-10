@@ -1,4 +1,4 @@
-# Basecamp Clone API
+# Basecamp Backend Clone
 
 A lightweight Basecamp-inspired project management REST API built with **Node.js**, **Express**, and **MongoDB**.
 
